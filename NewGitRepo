@@ -1,0 +1,9 @@
+como subir a GitHub
+
+-Crear Repo en Github
+-git clone [ssh]
+-git init
+-git remote add origin [ssh]
+-git add .
+-git commit -m "Coment"
+-git push origin master
